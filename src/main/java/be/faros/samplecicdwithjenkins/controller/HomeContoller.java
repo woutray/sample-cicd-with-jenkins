@@ -10,7 +10,7 @@ public class HomeContoller {
 
     @GetMapping
     public String home() {
-        return "Welcome Home";
+        return "Welcome To MEMETOWN";
     }
 
 }
