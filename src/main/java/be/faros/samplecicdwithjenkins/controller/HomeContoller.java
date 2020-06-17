@@ -10,7 +10,7 @@ public class HomeContoller {
 
     @GetMapping
     public String home() {
-        return "Welcome To MEMETOWN";
+        return "Welcome To Azure Pipelines";
     }
 
 }
