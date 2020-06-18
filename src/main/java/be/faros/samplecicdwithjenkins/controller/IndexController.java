@@ -10,7 +10,7 @@ public class IndexController {
 
     @GetMapping
     public String index() {
-        return "Sample Jenk00ns";
+        return "Sample Jenk00ns V3";
     }
 
 }
