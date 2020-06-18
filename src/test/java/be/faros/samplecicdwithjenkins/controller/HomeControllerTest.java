@@ -15,7 +15,7 @@ class HomeControllerTest {
     MockMvc mockMvc;
 
     @Test
-    void home() throws Excption {
+    void home() throws Exception {
         this.mockMvc.perform(get("/home")).andExpect(status().isOk());
     }
 }
