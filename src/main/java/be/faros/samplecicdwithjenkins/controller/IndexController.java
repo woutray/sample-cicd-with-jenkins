@@ -10,7 +10,7 @@ public class IndexController {
 
     @GetMapping
     public String index() {
-        return "This project is supported by Jenkins on Azure - Webhook registered - This one does work? Why?.";
+        return "Any SAMPLERS?";
     }
 
 }
