@@ -10,7 +10,7 @@ public class IndexController {
 
     @GetMapping
     public String index() {
-        return "Sample CI CD W Jenkins";
+        return "Sample Jenkins";
     }
 
 }
